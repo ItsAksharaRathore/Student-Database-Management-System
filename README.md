@@ -35,7 +35,7 @@ To get started with the Student Database Management System, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/itsVaibhavSharma/Student-Database-Management-System.git
+    git clone https://github.com/ItsAksharaRathore/Student-Database-Management-System.git
     cd Student-Database-Management-System
     ```
 
